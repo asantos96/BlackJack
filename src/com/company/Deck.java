@@ -45,7 +45,8 @@ public class Deck {
         value.add (11);
     }
 
-
+    //Deck should have a public method that “builds” an arraylist of Card objects
+    //FOR LOOP POSSIBLE HERE
 
     }
 

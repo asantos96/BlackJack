@@ -5,6 +5,7 @@ public class Card {
     private String rank;
     private int value;
 
+    //Constructor for creating card
     public Card (String suit, String rank, int value){
         this.suit = suit;
         this.rank = rank;
@@ -12,7 +13,7 @@ public class Card {
     }
 
 
-
+    //Setters & Getters
     public void setSuit (String suit) {
         this.suit = suit;
     }
