@@ -1,5 +1,8 @@
 package com.company;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -20,7 +23,7 @@ public class Main {
 //        Assign each Card a Suit (Spades, Clubs, Diamond, and Heart)
 //        Assigning each card a Rank (2-10, Jack, Queen, King, Ace)
 //        Assigning each card a value to 2-11
-//        This should be done to recreate the 52 unique cards in a deck
+//        This should be done to recreate the 52 unique cards in a deck *13 cards to each suit
 //        Create a new class called Dealer
 //                Dealer should have a method named “deal”, that returns two random Cards and removes them
 //                from the deck
@@ -34,5 +37,10 @@ public class Main {
 //        Bonus: Can you figure out a way to handle Aces being worth 1 or 11?
 //                Super Bonus: Can you handle the dealer also playing a hand to see who wins with the
 //                closest score to 21?
+
+
+
+
+
     }
 }
