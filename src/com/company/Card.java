@@ -32,4 +32,8 @@ public class Card {
     public int getValue() {
         return value;
     }
+
+    public void Print() {
+        System.out.println(suit+rank+value);
+    }
 }
